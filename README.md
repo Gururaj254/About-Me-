@@ -41,7 +41,7 @@ I'm a [Java Full Stack , passionate software developer] from [Bangalore, India] 
 </div>
 
 ## 📫 Let's Connect
-- 📧 Email: [your.email@example.com]
+- 📧 Email: [gururajdharmashetti390@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/gururaj254]
 - 🐦 Twitter: [@Gururaj254](https://twitter.com/Gururaj254)
 - 🌐 Website: [yourwebsite.com]
