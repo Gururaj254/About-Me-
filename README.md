@@ -20,7 +20,9 @@ I'm a [Java Full Stack , passionate software developer] from [Bangalore, India] 
 ![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![DSA](https://img.shields.io/badge/DSAL-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <!-- Add more badges from https://shields.io -->
+
 
 ## 🔥 Top Projects
 | Project | Description | Tech | Stars |
