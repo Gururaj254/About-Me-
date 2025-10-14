@@ -17,10 +17,10 @@ I'm a [Java Full Stack , passionate software developer] from [Bangalore, India] 
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=pink)
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![DSA](https://img.shields.io/badge/DSAL-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-43853D?style=for-the-badge&logo=node.js&logoColor=blue)
 <!-- Add more badges from https://shields.io -->
 
 
