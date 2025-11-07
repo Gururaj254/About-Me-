@@ -9,11 +9,10 @@ I'm a [Java Full Stack , passionate software developer] from [Bangalore, India] 
 </div>
 
 ## 🚀 About Me
-- 🔭 Currently working on [ React projects ].
+- 🔭 Currently working on [ React projects , Java Projects ].
 - 🌱 Learning [I Completed BE in CSE , e.g., ReactJs, Java , MySql/Oracle Database].
-- 👯 Open to collaborating on [Web Projects, e.g., MySql , Oracle  ].
-- 💬 Ask me about [topics, e.g., Java ,React , JavaScript, or SQL ].
-- ⚡ Fun fact: [something personal, e.g., I once coded a bot to fetch coffee recipes during late-night hacks].
+- 👯 Open to collaborating on [Web Projects ].
+- 💬 Ask me about [topics and frameworks like, Java ,React.js , JavaScript, or SQL ].
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,10 +26,8 @@ I'm a [Java Full Stack , passionate software developer] from [Bangalore, India] 
 ## 🔥 Top Projects
 | Project | Description | Tech | Stars |
 |---------|-------------|------|-------|
-| [Repo Name 1](https://github.com/Gururaj254/repo1) | [Brief desc, e.g., A weather app with real-time forecasts] | React, API | ![Stars](https://img.shields.io/github/stars/Gururaj254/repo1) |
-| [Repo Name 2](https://github.com/Gururaj254/repo2) | [Brief desc, e.g., A task manager CLI tool] | Python, CLI | ![Stars](https://img.shields.io/github/stars/Gururaj254/repo2) |
-| [Repo Name 3](https://github.com/Gururaj254/repo3) | [Brief desc, e.g., Personal portfolio site] | HTML/CSS/JS | ![Stars](https://img.shields.io/github/stars/Gururaj254/repo3) |
-
+| [Task-Matrix](https://gururaj254.github.io/TaskMatrix/) | [Brief desc, e.g., A Task Manager app with real-time forecasts] | React.js,  |]
+| [Proffessional Website2](https://gururaj254.github.io/Proffessional-Website/) | [Proffessional Information] | Reacts.js  |
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gururaj254&show_icons=true&hide_border=true&theme=radical" alt="Gururaj's GitHub stats" />
@@ -46,7 +43,7 @@ I'm a [Java Full Stack , passionate software developer] from [Bangalore, India] 
 - 📧 Email: [gururajdharmashetti390@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/gururaj-dharmashetti-944685296/]
 - 🐦 Twitter: [@Gururaj254](https://twitter.com/Gururaj254)
-- 🌐 Website: [yourwebsite.com]
+- 🌐 Website: [https://gururaj254.github.io/Proffessional-Website/]
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gururaj254&color=green" alt="Profile Views" />
