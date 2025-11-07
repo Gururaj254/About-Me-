@@ -26,8 +26,8 @@ I'm a [Java Full Stack , passionate software developer] from [Bangalore, India] 
 ## 🔥 Top Projects
 | Project | Description | Tech | Stars |
 |---------|-------------|------|-------|
-| [Task-Matrix](https://gururaj254.github.io/TaskMatrix/) | [Brief desc, e.g., A Task Manager app with real-time forecasts] | React.js,  **]
-| [Proffessional Website2](https://gururaj254.github.io/Proffessional-Website/) | [Proffessional Information] | Reacts.js  **|
+| [Task-Matrix](https://gururaj254.github.io/TaskMatrix/) | [Brief desc, e.g., A Task Manager app with real-time forecasts] | React.js | **]
+| [Proffessional Website2](https://gururaj254.github.io/Proffessional-Website/) | [Proffessional Information] | Reacts.js  | ** ]
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gururaj254&show_icons=true&hide_border=true&theme=radical" alt="Gururaj's GitHub stats" />
