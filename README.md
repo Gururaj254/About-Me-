@@ -9,10 +9,10 @@ I'm a **Java Full Stack Developer** from **Bangalore, India**, passionate about 
 </div>
 
 ## 🚀 About Me
-- 🔭 Currently working on **Spring Boot projects, React.js applications, and RESTful APIs**.
+- 🔭 Currently working on **Spring Boot projects, Thymeleaf Web Ui applications, and RESTful APIs**.
 - 🌱 Learning and expanding my skills in **Microservices, Cloud Deployment, and Advanced SQL**.
 - 👯 Open to collaborating on **full-stack web projects and enterprise applications**.
-- 💬 Ask me about **Java, Spring Boot, REST APIs, React.js, SQL (MySQL & Oracle), and backend optimizations**.
+- 💬 Ask me about **Java, Spring Boot, REST APIs, SQL (MySQL & Oracle), and backend optimizations**.
 - ⚡ Fun fact: I love **designing efficient database schemas** and **optimizing backend workflows**.
 
 ## 🛠️ Tech Stack
