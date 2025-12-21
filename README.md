@@ -30,8 +30,7 @@ I love working on **end-to-end applications** that solve real-world problems.
 |---------|-------------|------|------|
 | [Task-Matrix](https://gururaj254.github.io/TaskMatrix/) | A task management app with real-time forecasts and notifications | React.js, JavaScript | ⭐ |
 | [Professional Website](https://gururaj254.github.io/Proffessional-Website/) | Personal portfolio website showcasing projects and skills | React.js, HTML, CSS | ⭐ |
-| [Banking REST API](#) | Backend banking application using Spring Boot, MVC, Thymeleaf, MySQL | Spring Boot, Java, MYSQL | ⭐ 
-⭐ |
+| [Banking REST API](#) | Backend banking Implemented account creation, deposits, withdrawals, and automated balance validation application using Spring Boot, MVC, , MySQL | Spring Boot, Java, MYSQL | ⭐ |
 | [Ecommerce App ](#) | Backend Ecommerce App application using Spring Boot, MVC, Thymeleaf, MySQL | Spring Boot, Data-JPA, MySQL, Java | ⭐ 
 ## 📊 GitHub Stats
 <div align="center">
