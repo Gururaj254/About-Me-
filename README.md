@@ -2,7 +2,8 @@
 
 # Hi there, I'm Gururaj! 👋
 
-I'm a **Java Full Stack Developer** from **Bangalore, India**, passionate about building **robust web applications and scalable backend solutions**. I love working on **end-to-end applications** that solve real-world problems.
+I am a **Java Full Stack Developer**  from "Bangalore, India", passionate about building **robust web applications and scalable backend solutions**. As a "fresher", I am eager to grow into a "Software Engineer" role, with a strong focus on "Java backend development". I aim to contribute to "real-world projects", enhance my "technical skills", and deliver "efficient, high-quality solutions".
+I love working on **end-to-end applications** that solve real-world problems.
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Gururaj;Welcome+To+My+Profile!;Let's+Connect!" alt="Typing SVG" />
