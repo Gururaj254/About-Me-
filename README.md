@@ -32,6 +32,7 @@ I love working on **end-to-end applications** that solve real-world problems.
 | [Professional Website](https://gururaj254.github.io/Proffessional-Website/) | Personal portfolio website showcasing projects and skills | React.js, HTML, CSS | ⭐ |
 | [Banking REST API](#) | a Backend banking RESTAPI Implemented account creation, deposits, withdrawals, and automated balance validation application using Spring Boot, MVC, , MySQL | Spring Boot, Java, MYSQL | ⭐ |
 | [Ecommerce App ](#) | Backend Ecommerce REST API  using Spring Boot, MVC, Thymeleaf, MySQL | Spring Boot, Data-JPA, MySQL, Java | ⭐ 
+| [Student Management System ](#) | Backend Student Mangement REST API  using RESTful service with full CRUD operations and client-server communication|Spring Boot,Java, REST API, JSON, Hibernate | ⭐ 
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gururaj254&show_icons=true&hide_border=true&theme=radical" alt="Gururaj's GitHub stats" />
