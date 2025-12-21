@@ -18,6 +18,7 @@ I'm a **Java Full Stack Developer** from **Bangalore, India**, passionate about 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Collection Framework](https://img.shields.io/badge/Collection DS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
