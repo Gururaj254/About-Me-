@@ -22,7 +22,7 @@ I'm a **Java Full Stack Developer** from **Bangalore, India**, passionate about 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![DS(Collection Framework)](https://img.shields.io/badge/DS(Collection Framwork)-43853D?style=for-the-badge&logo=algorithm&logoColor=white)
+![DS](https://img.shields.io/badge/DS(Collection Framwork)-43853D?style=for-the-badge&logo=algorithm&logoColor=white)
 
 ## 🔥 Top Projects
 | Project | Description | Tech | Demo |
