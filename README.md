@@ -32,6 +32,8 @@ I love working on **end-to-end applications** that solve real-world problems.
 | [Professional Website](https://gururaj254.github.io/Proffessional-Website/) | Personal portfolio website showcasing projects and skills | React.js, HTML, CSS | ⭐ |
 | [Banking REST API](#) | Backend banking application using Spring Boot, MVC, Thymeleaf, MySQL | Spring Boot, Java, MYSQL | ⭐ 
 ## 📊 GitHub Stats
+⭐ |
+| [Ecommerce App | ](#) | Backend Ecommerce App application using Spring Boot, MVC, Thymeleaf, MySQL | Spring Boot, Data-JPA, MySQL, Java | ⭐ 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gururaj254&show_icons=true&hide_border=true&theme=radical" alt="Gururaj's GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gururaj254&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
