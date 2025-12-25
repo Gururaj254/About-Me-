@@ -31,8 +31,7 @@ I love working on **end-to-end applications** that solve real-world problems.
 | [Task-Matrix](https://gururaj254.github.io/TaskMatrix/) | A task management app with real-time forecasts and notifications | React.js, JavaScript | ⭐ |
 | [Professional Website](https://gururaj254.github.io/Proffessional-Website/) | Personal portfolio website showcasing projects and skills | React.js, HTML, CSS | ⭐ |
 | [Banking REST API](#) | a Backend banking RESTAPI Implemented account creation, deposits, withdrawals, and automated balance validation application using Spring Boot, MVC, , MySQL | Spring Boot, Java, MYSQL | ⭐ |
-| [E-Commerce Food Ordering Microservices](#) |Microservices-based food ordering system with Restaurant, Menu, and Order services. Full service discovery, gateway routing, and end-to-end order management| Backend Ecommerce REST API  using ava, Spring Boot, Spring Cloud, Eureka, API Gateway, Feign, MySQL
-  | ⭐ |
+| [E-Commerce Food Ordering Microservices](#) |Microservices-based food ordering system with Restaurant, Menu, and Order services. Full service discovery, gateway routing, and end-to-end order management| Java, Spring Boot, Spring Cloud, Eureka, API Gateway, Feign, MySQL | ⭐ |
 | [Student Management System ](#) | Backend Student Mangement REST API  using RESTful service with full CRUD operations and client-server communication|Spring Boot,Java, REST API, JSON, Hibernate | ⭐ 
 ## 📊 GitHub Stats
 <div align="center">
